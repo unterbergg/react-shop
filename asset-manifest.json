@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-shop/static/css/main.459896fb.css",
-    "main.js": "/react-shop/static/js/main.b9c87c2c.js",
+    "main.js": "/react-shop/static/js/main.1365366a.js",
     "static/media/material-icons-two-tone.woff": "/react-shop/static/media/material-icons-two-tone.3baa5b8f3469222b822d.woff",
     "static/media/material-icons-two-tone.woff2": "/react-shop/static/media/material-icons-two-tone.4ef4218c522f1eb6b5b1.woff2",
     "static/media/material-icons-round.woff": "/react-shop/static/media/material-icons-round.5d681e2edae8c60630db.woff",
@@ -15,10 +15,10 @@
     "static/media/logo.svg": "/react-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-shop/index.html",
     "main.459896fb.css.map": "/react-shop/static/css/main.459896fb.css.map",
-    "main.b9c87c2c.js.map": "/react-shop/static/js/main.b9c87c2c.js.map"
+    "main.1365366a.js.map": "/react-shop/static/js/main.1365366a.js.map"
   },
   "entrypoints": [
     "static/css/main.459896fb.css",
-    "static/js/main.b9c87c2c.js"
+    "static/js/main.1365366a.js"
   ]
 }
