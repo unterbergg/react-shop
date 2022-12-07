@@ -1,7 +1,9 @@
+import {useContext} from "react";
+import {ShopContext} from "../context";
 import {useEffect} from "react";
 
 function Toast(props) {
-    const {name = '', clearToast = Function.prototype} = props;
+    const {toastName: name, clearToast = Function.prototype} = useContext(ShopContext);
 
     useEffect(() => {
         const timerId = setTimeout(clearToast, 1000);

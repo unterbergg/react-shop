@@ -7,7 +7,11 @@ function Header() {
             </a>
             <ul id="nav-mobile" className="right hide-on-med-and-down">
                 <li>
-                    <a href="!#">
+                    <a href="!#"
+                       href="https://github.com/unterbergg/react-shop"
+                       target="_blank"
+                       rel="noreferrer"
+                    >
                         Repo
                     </a>
                 </li>
